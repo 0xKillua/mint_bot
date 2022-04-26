@@ -1,0 +1,16 @@
+{
+  "name": "mint_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Mint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ethers": "^5.6.4",
+    "keccak256": "^1.0.6"
+  }
+}
