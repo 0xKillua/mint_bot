@@ -1,3 +1,4 @@
 node_modules/
 .env
 package-lock.json
+Mint_bot/abi.json
